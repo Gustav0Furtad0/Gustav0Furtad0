@@ -3,8 +3,6 @@
 - Desenvolvedor em formação 💻
 - Experiência em estrutura de redes 📡
 - Universitário 📚
-- Gosto de games 🎮
-- Amo filmes 🎥
 
 <div align="center">
   <a href="https://github.com/Gustav0Furtad0">
